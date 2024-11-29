@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main()
+{
+  int i,n=5,temp,,a[5]={5,8,3,12,2};
+  printf("\n given array\n");
+  for(i=0;i<n;i++)
+  {
+  for(j=i+1;j<nj++)
+  {
+  if(a[i]>a[i]);
+  {
+  temp=a[i];
+  a[i]=a[j];
+  a[j]=temp;
+  }
+  }
+  }
+  printf("\n after sorting \n");
+  for(i=0;i<n;i++)
+  {
+  printf("\t a[%d]=%d",i,a[i]);
+  }
+}
